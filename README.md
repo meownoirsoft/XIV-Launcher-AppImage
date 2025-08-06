@@ -38,7 +38,7 @@ chmod +x XIVLauncher-x86_64.AppImage
 
 First-time setup may take a few minutes as the launcher configures itself and downloads necessary files.
 
-⚙️ ### Requirements
+### ⚙️ Requirements
 🎮 Steam version of FFXIV (optional but recommended)
 
 ✅ Vulkan drivers
@@ -49,7 +49,7 @@ First-time setup may take a few minutes as the launcher configures itself and do
 sudo apt install aria2
 ```
 
-🧯 ### Troubleshooting
+### 🧯 Troubleshooting
 ❗️"An error occurred trying to start process 'aria2c'"
 
 Install aria2:
@@ -108,12 +108,12 @@ Want to build your own?
 ./appimagetool-x86_64.AppImage XIVLauncher.AppDir
 ```
 
-❤️ ### Credit
+### ❤️ Credit
 - Based on the amazing work by goatcorp/FFXIVQuickLauncher
 - Linux support enhanced by squirrel-labs
 - This AppImage build maintained by @meownoirsoft
 
-📬 ### Feedback & Issues
+### 📬 Feedback & Issues
 Please open an issue if you encounter bugs, compatibility problems, or need help.
 PRs welcome if you want to help improve Linux support or automate the build process.
 
