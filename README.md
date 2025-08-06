@@ -117,4 +117,4 @@ Want to build your own?
 Please open an issue if you encounter bugs, compatibility problems, or need help.
 PRs welcome if you want to help improve Linux support or automate the build process.
 
-🎮 ### Enjoy the game, Warrior of Light!
+### 🎮 Enjoy the game, Warrior of Light!
